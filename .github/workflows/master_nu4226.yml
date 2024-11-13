@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'nu4226'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AD3DF012EB8475890914A2887A33F7A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_36E1AD65F3D747D382C54CFD9A972FDB }}
